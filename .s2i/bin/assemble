@@ -1,6 +1,6 @@
 pwd
 
-mkdir /tmp/sti/src
+mkdir -p /tmp/sti/src
 
 mv /tmp/sti/src $HOME/src
 
