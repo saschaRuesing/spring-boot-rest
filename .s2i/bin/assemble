@@ -1,3 +1,3 @@
+mv /tmp/sti/src $HOME/src
 mvn clean install
-
 cp target/gs-rest-service-*.jar ./gs-rest-service.jar
