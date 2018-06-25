@@ -1,3 +1,4 @@
+pwd
 mv /tmp/sti/src $HOME/src
 pushd $HOME
 mvn clean install
