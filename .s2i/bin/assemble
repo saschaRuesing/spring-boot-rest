@@ -1,8 +1,5 @@
 pwd
-
-mkdir -p /tmp/sti/src
-
-mv /tmp/sti/src $HOME/src
+ls -l
 
 pushd $HOME
 mvn clean install
